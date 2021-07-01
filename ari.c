@@ -60,7 +60,22 @@ string ari(string s)
  {
  w="Fourth Grade";
  return w;
- }
+}
+ if(x==5)
+  {
+ w="Fifth Grade";
+ return w;
+}
+ if(x==6)
+  {
+ w="Sixth Grade";
+ return w;
+}
+ if(x==7)
+  {
+ w="Seventh Grade";
+ return w;
+}
  if(x==8)
   {
  w="Eigth Grade";
@@ -96,4 +111,6 @@ string ari(string s)
  w="Professor";
  return w;
 }
-)
+ 
+ 
+ )
